@@ -1,5 +1,5 @@
 ---
-title: ✍️ Notes
+title: STAT 888
 type: book # Do not modify.
 toc: false
 
